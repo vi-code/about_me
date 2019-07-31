@@ -1,0 +1,12 @@
+<span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cd PageRank/<!-- lag -->About
+<span id="a">vihar@patel</span>:<span id="b">~</span><span id="c">$</span> cat <!-- lag -->PageRank.txt<br/><br/>
+
+
+
+<!-- lag -->You can find my implementation of my PageRank and HIITS algorithm <a href="https://github.com/vi-code/pagerank">here!<!-- lag --></a>
+
+<p>View webpage source <a href="https://github.com/vi-code/vi-code.github.io">here!</a></p>
+
+<p> You can also download a printer-friendly version of my résumé <a href="https://github.com/vi-code/vi-code.github.io/raw/master/Resume_ViharPatel_SE_2019.pdf">here.</a></p><!-- lag -->
+
+<p>Peace!</p>
