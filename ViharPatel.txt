@@ -3,10 +3,21 @@
 
 
 
-<!-- lag -->You can find my implementation of my PageRank and HIITS algorithm <a href="https://github.com/vi-code/pagerank">here!<!-- lag --></a>
+<!-- lag -->Hi there! I am a Purdue University Computer Science grad and am looking for an opportunity in software engineering, with special interest in software engineering, machine learning and information systems.
 
-<p>View webpage source <a href="https://github.com/vi-code/vi-code.github.io">here!</a></p>
+I wish to apply for the New Grad Software Development Engineer position at an organization which fosters creativity and innovation. I am confident that my academic and professional intern experience of software development in C++, Python and Java as well as my exposure to Agile methodology would make me a great fit.
+
+During my course at Purdue, I got opportunity to work with Prof. George B. Adams and the Raspberry Pi team on a research project to port a working 64-bit Operating System for ARMv8 (64-bit) Raspberry Pi Machines. I led the development, tweaking and testing of a headless Linux OS for the 64-bit ARM machines. This was a challenging and interesting project which enriched my knowledge about cross-platform compilations, virtual machines and kernels. The ambiguity of this research project taught me valuable lessons in abstract thinking, collaboration and the ability to articulate the problems and come up with robust solutions.
+
+In parallel, I have also been learning and exploring higher level machine learning concepts and complex algorithms analysis, beyond my coursework. 
+
+Currently, I am working as a Software Engineer on a product named Passport by ITaP, an IT organization at Purdue University. The Passport allows the professors to create interactive course content and assignments for their students. It helps the students to maintain their achievement portfolio and track their academic progress. Working on Passport has helped me learn building real world product that affects its users directly. I have learned the importance of actively analyzing end-user feedback and developing products based on it.
+
+With above research project on Raspberry Pi and production application development and maintenance of Passport, I have built my skills in Java, C/C++ and Assembly language programming.
+
+I enjoy taking on challenges that require extraordinary solutions and am excited to apply my problem-solving skills to build bleeding edge products for the customers. If presented with the opportunity, I strongly believe that I will be a great asset to the organization.
 
 <p> You can also download a printer-friendly version of my résumé <a href="https://github.com/vi-code/vi-code.github.io/raw/master/Resume_ViharPatel_SE_2019.pdf">here.</a></p><!-- lag -->
 
-<p>Peace!</p>
+<p>View webpage source <a href="https://github.com/vi-code/vi-code.github.io">here!</a></p>
+
